@@ -522,3 +522,87 @@ footer{
     border-width: 10px;
 
 }
+
+
+/*******************Propiedades de posicionamiento empleadas**************************/
+/**POSICIONAMIENTO CLÁSICO
+position: fixed;
+top
+left
+z-index
+**/
+
+/**FLEXBOX
+display: flex;
+align-items
+justify-content
+flex-direction
+flex-wrap
+gap
+**/
+
+/**GRID
+display: grid;
+grid-template-columns
+column-gap
+justify-content
+**/
+
+/**OTROS
+display: block;
+display: none;
+
+
+/**Propiedades CSS empleadas
+background-image
+background-color
+background-size
+background-attachment
+background-repeat
+
+color
+
+opacity
+
+font-family
+font-size
+
+text-shadow
+text-transform
+text-align
+text-decoration-line
+
+height
+
+width
+min-width
+
+padding
+padding-top
+padding-bottom
+padding-left
+padding-right
+
+margin
+margin-top
+
+border-color
+border-width
+border-style
+border-radius
+
+list-style
+
+transition
+-webkit-transform
+transform
+
+PSEUDOCLASES:
+:link
+:visited
+:hover
+
+
+
+
+
